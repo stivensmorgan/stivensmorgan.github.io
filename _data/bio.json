@@ -17,23 +17,23 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "stivensmorgan",
+        "url": "http://github.com/stivensmorgan"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "stivensmorgan",
+        "url": "http://linkedin.com/in/stivensmorgan"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "stivensmorgan",
+        "url": "http://twitter.com/stivensmorgan"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "stivensmorgan",
+        "url": "http://instagram.com/stivensmorgan"
       }
     ]
   },
